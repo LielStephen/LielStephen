@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="darthvader-banner.png" alt="Darth Vader Banner" width="100%" />
+  <img src="Darthvader-banner.png" alt="Darth Vader Banner" width="100%" />
 </p>
 
 ---
