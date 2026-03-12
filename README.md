@@ -61,6 +61,8 @@ Like the Chosen One, I strive to bring **balance between innovation and precisio
 - SQL (HackerRank)
 - AI Basics (Intel)
 - UiPath Automation
+- Palantir Certification
+- AWS Certifications
 
 ---
 
@@ -69,6 +71,14 @@ Like the Chosen One, I strive to bring **balance between innovation and precisio
 I once debugged a bug so deep, even Yoda would've said:
 
 > *"Powerful, your stack trace is."*
+
+---
+
+## 🎥 Transmission from the Galaxy
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ac2f80e-6dbb-4127-98bf-aab5ed0131df" width="800"/>
+</p>
 
 ---
 
