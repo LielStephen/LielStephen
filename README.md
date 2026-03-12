@@ -32,7 +32,7 @@ Like the Chosen One, I strive to bring **balance between innovation and precisio
 ## 🚀 Arsenal
 - **Languages:** Java, C++, Python  
 - **Frameworks & Tools:** React, Flask, Tailwind CSS, Git, pandas, NumPy  
-- **Specializations:** Machine Learning, System Design, Full-Stack Development  
+- **Specializations:** Machine Learning, System Design, Reinforcement Learning, Deep Learning
 - **Certifications:** SQL (HackerRank), AI Basics (Intel), UiPath Automation
 ---
 
