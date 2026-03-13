@@ -80,11 +80,11 @@ I once debugged a bug so deep, even Yoda would've said:
 </p>
 
 ---
-
 <h3 align="center">
 ✨ May the Code — and the Force — Be With You ✨
 </h3>
-### 📊 My GitHub Stats
+
+<h4 align ="center">📊 My GitHub Stats</h4>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LielStephen&show_icons=true&theme=tokyonight&rank_icon=github" alt="github stats" />
