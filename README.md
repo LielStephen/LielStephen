@@ -84,3 +84,12 @@ I once debugged a bug so deep, even Yoda would've said:
 <h3 align="center">
 ✨ May the Code — and the Force — Be With You ✨
 </h3>
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LielStephen&show_icons=true&theme=tokyonight&rank_icon=github" alt="github stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LielStephen&theme=tokyonight" alt="github streak stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LielStephen&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
