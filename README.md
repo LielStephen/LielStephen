@@ -73,19 +73,10 @@ I once debugged a bug so deep, even Yoda would've said:
 > *"Powerful, your stack trace is."*
 
 ---
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7ac2f80e-6dbb-4127-98bf-aab5ed0131df" width="800"/>
-</p>
-
----
 <h3 align="center">
 ✨ May the Code — and the Force — Be With You ✨
 </h3>
-
 <h4 align ="center">📊 My GitHub Stats</h4>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LielStephen&show_icons=true&theme=tokyonight&rank_icon=github" alt="github stats" />
   <br/>
