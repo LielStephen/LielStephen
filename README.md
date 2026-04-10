@@ -4,9 +4,7 @@
 ✨ Liel Stephen — The Chosen One ✨
 </h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7ac2f80e-6dbb-4127-98bf-aab5ed0131df" width="700"/>
-</p>
+
 
 <p align="center">
   <img src="./Darthvader-banner.png" alt="Darth Vader Banner" width="100%"/>
