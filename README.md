@@ -1,5 +1,15 @@
 
-# <div align="center">⚡ YAMALA LIEL STEPHEN ⚡</div>
+<h1 align="center">
+⚡ YAMALA LIEL STEPHEN ⚡
+</h1>
+
+<p align="center">
+  <img src="./Darthvader-banner.png" alt="Banner" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Builder+of+Intelligent+Systems;Future+AI+Researcher;Entering+The+Grid" />
+</p>
 
 <div align="center">
 
