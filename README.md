@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="./Darthvader-banner.png" alt="Banner" width="100%"/>
+  <img src="./download.jpg" alt="Banner" width="100%"/>
 </p>
 
 <p align="center">
