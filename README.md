@@ -1,3 +1,4 @@
+````markdown
 # <div align="center">⚡ YAMALA LIEL STEPHEN ⚡</div>
 
 <div align="center">
@@ -6,9 +7,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Machine+Learning;Building+Intelligent+Systems;Future+AI+Researcher;Powered+by+Code+and+Curiosity" />
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,react,flask,firebase,mysql,git,github" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=LielStephen&color=00D9FF&style=for-the-badge"/>
 
 </div>
 
@@ -26,23 +31,32 @@ LOCATION    : Amaravati, India
 
 STATUS      : ONLINE
 MISSION     : Building Intelligent Systems
-```
+````
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=2&section=footer"/>
+
+# ◈ ABOUT ME
+
+🎓 B.Tech Artificial Intelligence & Machine Learning @ VIT-AP University
+
+🧠 Passionate about Machine Learning, Deep Learning, and Intelligent Systems
+
+⚡ Building real-world AI applications with practical impact
+
+🚀 Exploring Full-Stack Development, System Design, and AI Research
+
+🤝 Open to collaborations, internships, and research opportunities
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=2&section=footer"/>
 
 # ◈ CORE DOMAINS
 
-⚡ Machine Learning
-
-⚡ Deep Learning
-
-⚡ Reinforcement Learning
-
-⚡ Full Stack Development
-
-⚡ System Design
-
-⚡ Artificial Intelligence Research
+* Machine Learning
+* Deep Learning
+* Reinforcement Learning
+* Full Stack Development
+* System Design
+* Artificial Intelligence Research
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=2&section=footer"/>
 
@@ -58,13 +72,15 @@ MISSION     : Building Intelligent Systems
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Pandas-00D9FF?style=for-the-badge&logo=pandas&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/NumPy-00D9FF?style=for-the-badge&logo=numpy&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-00D9FF?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+
+<br><br>
 
 ### Web Development
 
@@ -90,12 +106,7 @@ MISSION     : Building Intelligent Systems
 <img src="https://skillicons.dev/icons?i=flask,firebase" />
 </p>
 
-Real-time emergency response platform featuring:
-
-* Flask Backend
-* Firebase Integration
-* Google Maps API
-* Machine Learning Predictions
+Real-time emergency response platform using Flask, Firebase, Maps API, and Machine Learning.
 
 ---
 
@@ -105,12 +116,7 @@ Real-time emergency response platform featuring:
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-Computer Organization & Architecture simulator featuring:
-
-* Instruction Sequencing
-* Register Visualization
-* Memory Monitoring
-* GUI Interface
+COA-level CPU architecture simulator with instruction sequencing and GUI visualization.
 
 ---
 
@@ -120,12 +126,7 @@ Computer Organization & Architecture simulator featuring:
 <img src="https://skillicons.dev/icons?i=react,flask,firebase" />
 </p>
 
-Intelligent agriculture recommendation system featuring:
-
-* Crop Recommendation
-* Yield Prediction
-* Marketplace Integration
-* Weather Analytics
+Intelligent agriculture recommendation system with weather and yield analytics.
 
 ---
 
@@ -135,12 +136,7 @@ Intelligent agriculture recommendation system featuring:
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-Multimodal PCOS detection system featuring:
-
-* Biomarker Analysis
-* Ultrasound Processing
-* AI Risk Prediction
-* LLM-Based Clinical Reasoning
+Multimodal AI-powered PCOS detection and risk analysis platform.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=2&section=footer"/>
 
@@ -162,15 +158,15 @@ Multimodal PCOS detection system featuring:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LielStephen&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LielStephen&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LielStephen&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LielStephen&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br>
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LielStephen&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=LielStephen&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -179,7 +175,9 @@ Multimodal PCOS detection system featuring:
 # ◈ CONTRIBUTION MATRIX
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/LielStephen/LielStephen/output/github-contribution-grid-snake-dark.svg"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LielStephen&theme=tokyonight"/>
+
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=2&section=footer"/>
@@ -214,17 +212,9 @@ Multimodal PCOS detection system featuring:
 <img src="https://img.shields.io/badge/GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/liel-stephen-17a06b295/">
 <img src="https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=LielStephen&color=00D9FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/LielStephen?style=for-the-badge&color=00D9FF"/>
 
 </p>
 
@@ -238,6 +228,7 @@ END OF TRANSMISSION
 
 ### ⚡ ENTER THE GRID ⚡
 
-*"The future is not something we enter. The future is something we build."*
+"The future is not something we enter. The future is something we build."
 
 </div>
+```
